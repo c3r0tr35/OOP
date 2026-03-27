@@ -1,4 +1,4 @@
-public class Proyecto2 {
+public class Practica2 {
     public static void main(String[] args) {
         String base = "Hola,soy %s y tengo %s.";
         
